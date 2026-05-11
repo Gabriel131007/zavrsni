@@ -50,7 +50,6 @@ Mislim da bi ova aplikacija mogla biti korisna i u stvarnom životu, a ne samo k
 - [x] Administrator može dodati novu igru
 - [x] Administrator može urediti i obrisati igru
 - [x] Responzivni dizajn (radi na mobitelu i računalu)
-- [ ] Objava putem Firebase Hostinga
 
 ### Napredne funkcionalnosti
 
@@ -58,10 +57,6 @@ Mislim da bi ova aplikacija mogla biti korisna i u stvarnom životu, a ne samo k
 - [x] Admin statistike (broj igara i recenzija)
 - [x] Indikator jačine lozinke pri registraciji
 - [x] Oznaka ocjene s opisom (Prosječno, Dobro, Izvrsno...)
-- [ ] Filtriranje igara po žanru
-- [ ] Sortiranje recenzija po datumu ili ocjeni
-- [ ] Označavanje igara kao "Igram" ili "Odigrao"
-- [ ] Glasanje je li recenzija korisna
 
 ---
 
@@ -207,9 +202,3 @@ Nakon registracije, ručno promijeni `role` u Firestore konzoli:
 - Firestore sigurnosna pravila
 - GitHub verzioniranje
 
-### ❌ Nije napravljeno
-- Firebase Hosting (objava)
-- Filtriranje igara po žanru
-- Sortiranje recenzija
-- Označavanje igara kao "Igram" / "Odigrao"
-- Glasanje za recenzije
